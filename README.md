@@ -1,9 +1,9 @@
 # PROJECT_PORTFOLIO : JISEON PARK
 >안녕하세요 <br>
 >현재 비트캠프 교육 기관에서 진행 중인 <br>
->최종 3차 팀 프로젝트 기술서입니다 <br>
+>최종 3차 팀 프로젝트 기술서입니다. <br>
 >담당한 기능을 바탕으로 구성 했으며, <br>
->추가 구현 되는 기능과 보완점은 계속해서 추가 및 수정 하겠습니다
+>추가 구현 되는 기능과 보완점은 계속해서 추가 및 수정 하겠습니다.
 
 
 # Description
@@ -28,7 +28,7 @@
   * 팀 회의록 작성 및 관리
   * DB ERD, PPT 설계(발표 자료 관리)
  
- # View
+ # View 
  * 메인 메뉴 헤더
  <img src = "https://user-images.githubusercontent.com/79893752/124296933-7b4a2980-db95-11eb-926e-44298fb1fd8a.png" width="100%">
 
@@ -42,14 +42,15 @@
 >커뮤니티 (자유, 여행 정보 게시판)
  * 로그인 조건 처리 - 로그인 했을 경우에만 글, 댓글 쓰는 버튼 생성
 <div>
-   <img src = "https://user-images.githubusercontent.com/79893752/124351025-f7467f00-dc32-11eb-8c7a-dc5c8cd98dd2.png" width="30%" height="150px">
-   <img src = "https://user-images.githubusercontent.com/79893752/124350887-2c9e9d00-dc32-11eb-8bdc-a6b9f73f6d3a.png" width="25%" height="150px">
-   <img src = "https://user-images.githubusercontent.com/79893752/124350577-5a82e200-dc30-11eb-87cd-7b5b3e53f4c2.png" width="40%" height = "100px">
+   <img src = "https://user-images.githubusercontent.com/79893752/124351025-f7467f00-dc32-11eb-8c7a-dc5c8cd98dd2.png" width="45%" height="250px">
+   <img src = "https://user-images.githubusercontent.com/79893752/124350887-2c9e9d00-dc32-11eb-8bdc-a6b9f73f6d3a.png" width="50%" height="250px">
+</div>
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124307641-14cc0800-dba3-11eb-8756-9f3c3d84eb3a.png" width="45%" height="300px">
+<img src = "https://user-images.githubusercontent.com/79893752/124350577-5a82e200-dc30-11eb-87cd-7b5b3e53f4c2.png" width="50%" height = "100px">
 </div>
 
- <img src = "https://user-images.githubusercontent.com/79893752/124307641-14cc0800-dba3-11eb-8756-9f3c3d84eb3a.png" width="100%" height="200px">
- 
- ---
+---
 
 * CRUD (글 작성) - JSP 파일로 부터 사용자 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
 <div>
@@ -60,7 +61,7 @@
  
  ---
  
-* CRUD (글 상세 보기) - 로컬에서 이미지 파일 화면 출력 (등록 Controller로 부터 업로드한 이미지를 JSP 상세보기 파일에서 불러오기)
+* CRUD (글 상세 보기) - 로컬에서 이미지 파일 화면 출력 (등록 Controller로 부터 업로드한 이미지를 스크립트에서 불러오기)
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124353053-fd425d00-dc3e-11eb-9233-899112d295de.png" 
 width="40%" height="350px">
@@ -77,58 +78,44 @@ width="40%" height="200px">
 <img src = "https://user-images.githubusercontent.com/79893752/124353690-f4538a80-dc42-11eb-8661-ebc39d39cbde.png" 
 width="55%" height="200px">
 </div>
- ---
 
+<hr>
+* CRUD (글 수정/삭제) - 본인이 작성한 글만 수정, 삭제할 수 있도록 스크립트에서 조건 설정
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124309364-915fe600-dba5-11eb-9c88-5e9cbc7bb807.png" width="45%">
+<img src = "https://user-images.githubusercontent.com/79893752/124357352-fa9f3200-dc55-11eb-94c5-1db2cb7022a7.png" width="50%"> 
+</div>
 
-      
-
-
-  
-* CRUD (글 수정)
- <img src = "https://user-images.githubusercontent.com/79893752/124309104-30d0a900-dba5-11eb-803f-583af6b3179e.png" 
-width="100%" height="50%">
-
-* CRUD (글 삭제)
- <img src = "https://user-images.githubusercontent.com/79893752/124309364-915fe600-dba5-11eb-9c88-5e9cbc7bb807.png" width="100%">
- 
 ---
  
-* CRUD (댓글 작성) - 게시글 번호를 참조하여 댓글 작성 처리
+* CRUD (댓글 작성) - @RequestParam을 사용하여 게시글 번호 참조하여 댓글 작성 처리
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124353945-755f5180-dc44-11eb-94e9-2a121d3a0a47.png" width="40%">
 <img src = "https://user-images.githubusercontent.com/79893752/124354036-ef8fd600-dc44-11eb-9ed9-f07e15a79aab.png" width="55%" height="200px">
 </div>
- <img src = "https://user-images.githubusercontent.com/79893752/124353980-a0e23c00-dc44-11eb-90c0-c33c0ca7fb28.png" width="100%">
+<img src = "https://user-images.githubusercontent.com/79893752/124353980-a0e23c00-dc44-11eb-90c0-c33c0ca7fb28.png" width="100%">
  
 ---
 
-* CRUD (댓글 수정) - window 함수 사용하여 수정 페이지를 열고 댓글 수정 작업 처리
+* CRUD (댓글 수정) - window 함수 사용하여 댓글 수정 창 열고 댓글 수정 작업 처리
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124354168-a0967080-dc45-11eb-9740-3f29d9e91c0c.png" width="50%">
 <img src = "https://user-images.githubusercontent.com/79893752/124354222-f10dce00-dc45-11eb-8b02-cc38be81ae52.png" width="45%">
 </div>
 
- 
-* CRUD (댓글 삭제)
- <img src = "" width="100%">
+---
 
-* 페이징 및 검색 처리
- <img src = "https://user-images.githubusercontent.com/79893752/124310441-231c2300-dba7-11eb-9865-f52aaabd5b6c.png" width="100%">
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
+* 페이징 및 검색 처리 - Criteria, PageMaker 파일 생성하여, Controller에서 값을 받고 View로 전송하며 기능 구현
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124357921-e14bb500-dc58-11eb-81a5-326c0c07763c.png" width="50%" height="350px">
+<img src = "https://user-images.githubusercontent.com/79893752/124357580-3be41180-dc57-11eb-9579-b36903fda6f9.png" width="40%" height="350px">
+</div>
+<img src = "https://user-images.githubusercontent.com/79893752/124358594-fa099a00-dc5b-11eb-8f2f-e419a7753f82.png" width="90%" height="200px">
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124358801-e448a480-dc5c-11eb-8f5b-f180e43ea8b9.png" 
+width="50%" height="450px">
+<img src = "https://user-images.githubusercontent.com/79893752/124358922-84063280-dc5d-11eb-8f38-4d6737ea3d71.png" width="48%" height="300px">
+</div>
 
 # 요구 사항 관리 대장
 * 커뮤니티 게시판
