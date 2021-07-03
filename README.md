@@ -112,10 +112,10 @@
   * 3차 프로젝트 - 2021.06.24 ~ 2021.07.13 (약 3주)
   <img src = "https://user-images.githubusercontent.com/79893752/124350123-cb74ca80-dc2d-11eb-88fe-ecf855921f56.png" width="100%">
   
-  * 2차 프로젝트
+  * 2차 프로젝트 - 2021.06.04 ~ 2021.06.13 (2주)
   <img src = "https://user-images.githubusercontent.com/79893752/124350205-3920f680-dc2e-11eb-86f7-f68790347e74.png" width="100%">
 
-  * 1차 프로젝트
+  * 1차 프로젝트 - 2021.04.29 ~ 2021.05.06 (1주)
   <img src = "https://user-images.githubusercontent.com/79893752/124350220-58b81f00-dc2e-11eb-8876-bb9d9c578103.png" width="100%">
 
 
