@@ -52,7 +52,7 @@
 
 ---
 
-* CRUD (글 작성) - JSP 파일로 부터 사용자 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
+* CRUD (글 작성) - View(JSP)로 부터 사용자 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124308538-5e692280-dba4-11eb-9a55-699d18d62bd0.png" 
      width="45%" height="300px">
@@ -61,7 +61,7 @@
  
  ---
  
-* CRUD (글 상세 보기) - 로컬에서 이미지 파일 화면 출력 (등록 Controller로 부터 업로드한 이미지를 스크립트에서 불러오기)
+* CRUD (글 상세 보기) - 로컬에서 이미지 파일 화면 출력 (등록 Controller로 부터 업로드한 이미지를 View에서 불러오기)
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124353053-fd425d00-dc3e-11eb-9233-899112d295de.png" 
 width="40%" height="350px">
@@ -80,7 +80,7 @@ width="55%" height="200px">
 </div>
 
 <hr>
-* CRUD (글 수정/삭제) - 본인이 작성한 글만 수정, 삭제할 수 있도록 스크립트에서 조건 설정
+* CRUD (글 수정/삭제) - 본인이 작성한 글만 수정, 삭제할 수 있도록 View에서 조건 설정
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124309364-915fe600-dba5-11eb-9c88-5e9cbc7bb807.png" width="45%">
 <img src = "https://user-images.githubusercontent.com/79893752/124357352-fa9f3200-dc55-11eb-94c5-1db2cb7022a7.png" width="50%"> 
