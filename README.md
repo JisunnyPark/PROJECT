@@ -15,7 +15,7 @@
 * 개 발 &nbsp; 기 간 : 2021.06.24 ~ 2021.07.13 (약 3주 / 현재 진행 중)
 * 사 용 &nbsp; 기 술
   * Spring 4.3.16, MyBatis, BootStrap
-  * Java8(1.8), Apache Tomcat 9.0
+  * Java8(1.8), JSP, Apache Tomcat 9.0
   * HTML, CSS, Java Script, JQuery, GitHub
   * Oracle SQL 20.4.1.407
 * 담 당 &nbsp; 업 무 
