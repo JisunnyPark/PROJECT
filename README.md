@@ -40,15 +40,26 @@
 
 # Implementation
 >커뮤니티 (자유, 여행 정보 게시판)
- * 로그인 조건 처리
+ * 로그인 조건 처리 - 로그인 했을 경우에만 글, 댓글 쓰는 버튼 생성
 <div>
-   <img src = "https://user-images.githubusercontent.com/79893752/124308676-983a2900-dba4-11eb-9ff3-17669412a55b.png" width="50%" height="200px">
-   <img src = "https://user-images.githubusercontent.com/79893752/124308769-b738bb00-dba4-11eb-8b36-44b5dcec9b3e.png" width="49%" height="200px">
+   <img src = "https://user-images.githubusercontent.com/79893752/124351025-f7467f00-dc32-11eb-8c7a-dc5c8cd98dd2.png" width="30%" height="150px">
+   <img src = "https://user-images.githubusercontent.com/79893752/124350887-2c9e9d00-dc32-11eb-8bdc-a6b9f73f6d3a.png" width="25%" height="150px">
+   <img src = "https://user-images.githubusercontent.com/79893752/124350577-5a82e200-dc30-11eb-87cd-7b5b3e53f4c2.png" width="40%" height = "100px">
 </div>
+
+
+
  <img src = "https://user-images.githubusercontent.com/79893752/124307641-14cc0800-dba3-11eb-8756-9f3c3d84eb3a.png" width="100%">
 
-* CRUD (글 작성)
- <img src = "https://user-images.githubusercontent.com/79893752/124308538-5e692280-dba4-11eb-9a55-699d18d62bd0.png" width="100%">
+* CRUD (글 작성) - JSP에서 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124308538-5e692280-dba4-11eb-9a55-699d18d62bd0.png" 
+      width="45%" height="300px">
+<img src = "https://user-images.githubusercontent.com/79893752/124351712-f6175100-dc36-11eb-86bb-822d76ffd521.png"                   width="50%" height="300px">
+</div>
+ 
+
+
  
 
  
@@ -107,10 +118,10 @@
       <img src = "https://user-images.githubusercontent.com/79893752/124302405-22ca5a80-db9c-11eb-8365-e478d8548102.png" width="100%">
       <img src = "https://user-images.githubusercontent.com/79893752/124302522-48576400-db9c-11eb-8e52-21fc0afe91e9.png" width="100%">
   -->
-  
+
   # 프로젝트 기술서
   * 3차 프로젝트 - 2021.06.24 ~ 2021.07.13 (약 3주)
-  <img src = "https://user-images.githubusercontent.com/79893752/124350123-cb74ca80-dc2d-11eb-88fe-ecf855921f56.png" width="100%">
+  <img src = "https://user-images.githubusercontent.com/79893752/124350422-a41efd00-dc2f-11eb-8d1d-d74b4f03bf56.png" width="100%">
   
   * 2차 프로젝트 - 2021.06.04 ~ 2021.06.13 (2주)
   <img src = "https://user-images.githubusercontent.com/79893752/124350205-3920f680-dc2e-11eb-86f7-f68790347e74.png" width="100%">
