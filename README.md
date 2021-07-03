@@ -101,10 +101,10 @@
  
  * 마이 페이지
  <img src = "https://user-images.githubusercontent.com/79893752/124301929-76887400-db9b-11eb-80c7-6716e511a678.png" width="100%">
-  // <img src = "https://user-images.githubusercontent.com/79893752/124302188-d2eb9380-db9b-11eb-8cd6-547ae087ee98.png" width="100%">
-  // <img src = "https://user-images.githubusercontent.com/79893752/124302405-22ca5a80-db9c-11eb-8365-e478d8548102.png" width="100%">
-  // <img src = "https://user-images.githubusercontent.com/79893752/124302522-48576400-db9c-11eb-8e52-21fc0afe91e9.png" width="100%">
-
+ <!-- <img src = "https://user-images.githubusercontent.com/79893752/124302188-d2eb9380-db9b-11eb-8cd6-547ae087ee98.png" width="100%">
+      <img src = "https://user-images.githubusercontent.com/79893752/124302405-22ca5a80-db9c-11eb-8365-e478d8548102.png" width="100%">
+      <img src = "https://user-images.githubusercontent.com/79893752/124302522-48576400-db9c-11eb-8e52-21fc0afe91e9.png" width="100%">
+  -->
 
   
   
