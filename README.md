@@ -47,37 +47,67 @@
    <img src = "https://user-images.githubusercontent.com/79893752/124350577-5a82e200-dc30-11eb-87cd-7b5b3e53f4c2.png" width="40%" height = "100px">
 </div>
 
+ <img src = "https://user-images.githubusercontent.com/79893752/124307641-14cc0800-dba3-11eb-8756-9f3c3d84eb3a.png" width="100%" height="200px">
+ 
+ ---
 
-
- <img src = "https://user-images.githubusercontent.com/79893752/124307641-14cc0800-dba3-11eb-8756-9f3c3d84eb3a.png" width="100%">
-
-* CRUD (글 작성) - JSP에서 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
+* CRUD (글 작성) - JSP 파일로 부터 사용자 입력 정보를 받아 Controller로 전송하여 글 등록 처리 
 <div>
 <img src = "https://user-images.githubusercontent.com/79893752/124308538-5e692280-dba4-11eb-9a55-699d18d62bd0.png" 
-      width="45%" height="300px">
+     width="45%" height="300px">
 <img src = "https://user-images.githubusercontent.com/79893752/124351712-f6175100-dc36-11eb-86bb-822d76ffd521.png"                   width="50%" height="300px">
 </div>
  
-
-
+ ---
  
+* CRUD (글 상세 보기) - 로컬에서 이미지 파일 화면 출력 (등록 Controller로 부터 업로드한 이미지를 JSP 상세보기 파일에서 불러오기)
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124353053-fd425d00-dc3e-11eb-9233-899112d295de.png" 
+width="40%" height="350px">
+<img src = "https://user-images.githubusercontent.com/79893752/124353165-df292c80-dc3f-11eb-9c2e-a1e3c4b6d3c4.png" 
+width="58%" height="350px">
+</div>
+<img src = "https://user-images.githubusercontent.com/79893752/124353283-99209880-dc40-11eb-874d-6670e3160e45.png" 
+width="100%">
 
- 
-* CRUD (글 상세 보기)
- <img src = "https://user-images.githubusercontent.com/79893752/124309635-003d3f00-dba6-11eb-8971-8913e10ffd93.png" width="100%">
-    * 이미지 파일 불러오기
+* CRUD (글 상세 보기) - 조회수 증가 (update문을 통해 게시글을 클릭하면 조회수 1씩 증가 되도록 처리)
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124353569-4516b380-dc42-11eb-86d0-5adcc7ba702b.png" 
+width="40%" height="200px">
+<img src = "https://user-images.githubusercontent.com/79893752/124353690-f4538a80-dc42-11eb-8661-ebc39d39cbde.png" 
+width="55%" height="200px">
+</div>
+ ---
+
+
+      
+
+
   
 * CRUD (글 수정)
- <img src = "https://user-images.githubusercontent.com/79893752/124309104-30d0a900-dba5-11eb-803f-583af6b3179e.png" width="100%">
+ <img src = "https://user-images.githubusercontent.com/79893752/124309104-30d0a900-dba5-11eb-803f-583af6b3179e.png" 
+width="100%" height="50%">
 
 * CRUD (글 삭제)
  <img src = "https://user-images.githubusercontent.com/79893752/124309364-915fe600-dba5-11eb-9c88-5e9cbc7bb807.png" width="100%">
  
-* CRUD (댓글 작성)
- <img src = "" width="100%">
+---
  
-* CRUD (댓글 수정)
- <img src = "" width="100%">
+* CRUD (댓글 작성) - 게시글 번호를 참조하여 댓글 작성 처리
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124353945-755f5180-dc44-11eb-94e9-2a121d3a0a47.png" width="40%">
+<img src = "https://user-images.githubusercontent.com/79893752/124354036-ef8fd600-dc44-11eb-9ed9-f07e15a79aab.png" width="55%" height="200px">
+</div>
+ <img src = "https://user-images.githubusercontent.com/79893752/124353980-a0e23c00-dc44-11eb-90c0-c33c0ca7fb28.png" width="100%">
+ 
+---
+
+* CRUD (댓글 수정) - window 함수 사용하여 수정 페이지를 열고 댓글 수정 작업 처리
+<div>
+<img src = "https://user-images.githubusercontent.com/79893752/124354168-a0967080-dc45-11eb-9740-3f29d9e91c0c.png" width="50%">
+<img src = "https://user-images.githubusercontent.com/79893752/124354222-f10dce00-dc45-11eb-8b02-cc38be81ae52.png" width="45%">
+</div>
+
  
 * CRUD (댓글 삭제)
  <img src = "" width="100%">
