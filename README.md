@@ -21,8 +21,6 @@
 * 담 당 &nbsp; 업 무 
   * 커뮤니티 게시판 기능 구현
     * 게시글, 댓글 CRUD, 페이징, 검색, 조회수, 이미지 파일 화면 출력, 로그인 조건 처리
-  * 마이 페이지 기능 구현 (7월 둘째 주 구현 예정)
-    * 구매/취소 내역, 찜 목록, 회원 정보 수정, 회원 탈퇴 
   * UI 구현 
     * 게시판 네비게이션 바, 메인 메뉴 헤더, 로그인, 회원가입
   * 팀 회의록 작성 및 관리
@@ -128,13 +126,6 @@ width="50%" height="450px">
  # 스토리 보드
  * 커뮤니티 게시판
  <img src = "https://user-images.githubusercontent.com/79893752/124301381-b569fa00-db9a-11eb-863f-ec937938d46d.png" width="100%">
- 
- * 마이 페이지
- <img src = "https://user-images.githubusercontent.com/79893752/124301929-76887400-db9b-11eb-80c7-6716e511a678.png" width="100%">
- <!-- <img src = "https://user-images.githubusercontent.com/79893752/124302188-d2eb9380-db9b-11eb-8cd6-547ae087ee98.png" width="100%">
-      <img src = "https://user-images.githubusercontent.com/79893752/124302405-22ca5a80-db9c-11eb-8365-e478d8548102.png" width="100%">
-      <img src = "https://user-images.githubusercontent.com/79893752/124302522-48576400-db9c-11eb-8e52-21fc0afe91e9.png" width="100%">
-  -->
 
   # 프로젝트 기술서
   * 3차 프로젝트 - 2021.06.24 ~ 2021.07.13 (약 3주)
