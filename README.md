@@ -1,6 +1,6 @@
 # PROJECT_PORTFOLIO : JISEON PARK
 >안녕하세요 <br>
->현재 비트캠프 교육 기관에서 진행 중인 <br>
+>비트캠프 교육 기관에서 진행했던 <br>
 >최종 3차 팀 프로젝트 기술서입니다. <br>
 
 # Description
